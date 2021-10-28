@@ -1,0 +1,13 @@
+.card-profil {
+	width: 500px;
+	background: linear-gradient(to bottom right, lightgrey 40%, white 100%);
+	align-items: center;
+	padding: 20px;
+	margin: 10px auto;
+	border-radius: 60px;
+}
+h1#icon {
+	font-size: 100px;
+	color: blue;
+	margin-bottom: 10px;
+}

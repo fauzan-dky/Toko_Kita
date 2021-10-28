@@ -1,0 +1,39 @@
+body {
+    background: linear-gradient(to bottom right, lavender 10%, lightblue 100%);
+}
+.card-login {
+	width: 450px;
+	background: linear-gradient(to bottom right, lightgrey 10%, white 100%);
+	align-items: center;
+	padding: 20px;
+	margin: 20px auto;
+	border-radius: 10px;
+}
+h1, h3{
+	text-align: center;
+	color: blue;
+}
+h1#login {
+	text-align: center;
+	color: red;
+	font-size: 36px;
+}
+button {
+	width: 100%;
+	margin-top: 10px;
+}
+input [type=text], input [type=password]:hover {
+	border: 5px solid blue;
+}
+#icon {
+	border-radius: 50%;
+	font-size: 35px; 
+	margin: 5px 5px;
+}
+div#action {
+	text-align: center;
+	padding: 10px;
+}
+p#or {
+	margin-top: 10px;
+}
